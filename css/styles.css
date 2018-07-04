@@ -1220,7 +1220,10 @@ a.hire-btn:hover{
     line-height: 28px;
     text-align: justify;
 }
-
+.description-service {
+    font-size: 16px !important;
+    font-weight: 500;
+}
 
 /* 11 - Skills
 ------------------------------------------------------------------------*/
